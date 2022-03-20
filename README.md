@@ -2,7 +2,7 @@
 
 Umami is a simple, fast, website analytics alternative to Google Analytics.
 # [✦ LIVEDEMO ✦](https://app.umami.is/share/8rmHaheU/umami.is)  
-# [![Deploy on Railway](https://railway.app/button.svg)](https://bit.ly/3sIp8jg) 
+# [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/5jdyJa?referralCode=nischay) 
 ![](./assets/umami-dark-light.png)
 
 ## Getting started
